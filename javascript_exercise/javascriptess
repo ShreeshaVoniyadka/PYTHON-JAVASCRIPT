@@ -1,0 +1,44 @@
+1. HTML to define the content of web pages
+
+2. CSS to specify the layout of web pages
+
+3. JavaScript to program the behavior of web pages
+
+
+Document Object Model:(DOM)Application programming interface
+
+\\JavaScript can "display" data in different ways:
+
+1)Writing into an HTML element, using innerHTML.
+2)Writing into the HTML output using document.write().
+3)Writing into an alert box, using window.alert().
+4)Writing into the browser console, using console.log().
+
+Using document.write() after an HTML document is loaded, will delete all existing HTML:
+You cannot access output devices from JavaScript.
+The only exception is that you can call the window.print() method in the browser to print the 
+content of the current window.
+
+example for defferentiationg let and var:
+{                                                      
+  var x = 2;
+}
+// x CAN be used here
+{
+  let x = 2;
+}
+// x can NOT be used here
+
+
+var i = 5;
+for (var i = 0; i < 10; i++) {
+  // some statements
+}
+// Here i is 10
+
+
+let i = 5;
+for (let i = 0; i < 10; i++) {
+  // some statements
+}
+// Here i is 5

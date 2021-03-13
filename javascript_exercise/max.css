@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    padding-top: 20px;
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+.clk{
+        color: white;
+        font-size: 100px;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        position: absolute;
+        top: 50%;
+        left:50%;
+        transform: translateX(-50%) translateY(-50%);
+}

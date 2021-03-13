@@ -1,0 +1,21 @@
+button{
+    text-align:center;
+    border:none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color:black;
+    padding:10px 10px ;
+    font-size:20px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:40px;
+    color:white;
+}
+body{
+    background-image:url('IMG-20201002-WA0017.jpg') ;
+    width: auto;
+    height:auto;
+}
+
