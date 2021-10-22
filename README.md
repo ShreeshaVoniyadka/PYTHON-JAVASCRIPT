@@ -1,5 +1,8 @@
-# MYWORKS
+#### MYWORKS
 PART ONE OF THIS REPO IS :
+
     ---------------SIMPLE JAVASVRIPT PROGRAMS--------------
+
 PART TWO OF THIS REPO IS:
+
     ------------PYTHON SIMPLE PEOGRAMS/EXERCISES-----------
